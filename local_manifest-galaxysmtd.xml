@@ -2,7 +2,6 @@
 <manifest>
 
 <!-- local_manifest for Galaxy S1 -->
-	<!--Samsung Common S2 & Note-->
 
 	<!-- Galaxy S1 -->
   <project name="SuperJB-Devices/android_device_samsung_aries-common" path="device/samsung/aries-common" />
