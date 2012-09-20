@@ -1,0 +1,7 @@
+SuperTeam
+===========
+
+Handling local_manifest
+---------------
+Copiar el local_manifest_xxx en el directorio .repo renombrandolo a local_manifest para el dispositivo que quereis que descargue para compilar
+Copy local_manifest_xxx directory .repo renaming them to local_manifest for the device you desire to download to compile
