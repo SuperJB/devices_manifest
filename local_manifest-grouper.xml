@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<!-- grouper -->
+  <project path="device/asus/grouper" name="SuperJB-Devices/android_device_asus_grouper" remote="github" revision="jellybean" />
+  <project path="vendor/asus/grouper" name="SuperJB-Vendor/android_vendor_asus_grouper" remote="github" revision="jellybean" />
+  <project path="vendor/nvidia/grouper" name="SuperJB-Vendor/android_vendor_nvidia_grouper" remote="github" revision="jellybean" />
+  <project path="kernel/asus/grouper" name="SuperJB-Kernel/android_kernel_asus_grouper" remote="github" revision="jellybean" />
+
+</manifest>
