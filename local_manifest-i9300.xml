@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- local_manifest for Galaxy S3 -->
+
+	<!-- Galaxy S3 -->
+  <project path="device/samsung/i9300" name="SuperJB-Devices/android_device_samsung_i9300" remote="github" revision="jellybean" />
+  <project path="kernel/samsung/smdk4412" name="SuperJB-Kernel/android_kernel_samsung_smdk4412" remote="github" revision="jellybean" />
+  <project path="vendor/samsung/i9300" name="SuperJB-Vendor/android_vendor_samsung_i9300" remote="github" revision="jellybean" />
+
+<!-- Hardware Common-Samsung -->
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="jellybean" />
+</manifest>
+
